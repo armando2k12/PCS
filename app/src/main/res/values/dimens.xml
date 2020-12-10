@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default Screen margin -->
+    <dimen name="margin">16dp</dimen>
+    <dimen name="margin_horizontal">16dp</dimen>
+    <dimen name="margin_vertical">8dp</dimen>
+
+    <dimen name="padding">16dp</dimen>
+    <dimen name="padding_horizontal">16dp</dimen>
+    <dimen name="padding_vertical">8dp</dimen>
+    <dimen name="padding_gambar_tulisan">12dp</dimen>
+
+    <dimen name="text_size">16dp</dimen>
+    <dimen name="text_size_settings">24dp</dimen>
+
+    <!-- button Makananan/ Minuman POS-->
+    <dimen name="width_button">190dp</dimen>
+
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Pos_Armando</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--Login Activity-->
+    <string name="menu_login">MENU LOGIN</string>
+    <string name="pos_armando">POS_Armando</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="fullname">Full Name </string>
+
+
+    <!-- Nav menu text-->
+    <string name="point_of_sales">Point Of sales</string>
+    <string name="aktivitas">Aktivitas</string>
+    <string name="shift">Shift</string>
+    <string name="pengaturan">Pengaturan</string>
+
+    <!--fragment POS-->
+    <string name="bayar">Bayar</string>
+    <string name="makanan">Makanan</string>
+    <string name="minuman">Minuman</string>
+    <string name="search">Cari..</string>
+
+
+    <!-- Fragment Pengaturan -->
+    <string name="hardware">Hardware</string>
+    <string name="printer">Printer</string>
+    <string name="akun">Akun</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="profil">Profil</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
